@@ -17,9 +17,18 @@ h3 {
     font-family: Dancing Script;
 }
 
-p {
-    font-family: Edu VIC WA NT Beginner;
+h4 {
+    font-family: Dancing Script;
 }
+
+h5 {
+    font-family: Dancing Script;
+}
+
+p {
+    font-family: Dancing Script;
+}
+
 
 .top-container {
     background-color: #6afff8ad;
@@ -46,4 +55,45 @@ p {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.html {
+    position: absolute;
+    left: 250px;
+}
+
+.js {
+    position: absolute;
+    left: 360px;
+}
+
+.py {
+    position: absolute;
+    left: 470px;
+}
+
+.sql {
+    position: absolute;
+    left: 580px;
+}
+
+.react {
+    position: absolute;
+    left: 690px;
+}
+
+.java {
+    position: absolute;
+    left: 800px;
+
+}
+
+.spring {
+    position: absolute;
+    left: 910px;
+}
+
+.firebase {
+    position: absolute;
+    left: 1010px;
 }

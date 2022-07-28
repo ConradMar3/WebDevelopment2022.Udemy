@@ -5,7 +5,20 @@ body {
 }
 
 h1 {
-    margin-top: 10px;
+    margin-top: 0px;
+    font-family: Dancing Script;
+}
+
+h2 {
+    font-family: Dancing Script;
+}
+
+h3 {
+    font-family: Dancing Script;
+}
+
+p {
+    font-family: Edu VIC WA NT Beginner;
 }
 
 .top-container {
@@ -14,17 +27,10 @@ h1 {
     padding-top: 100px;
 }
 
-.middle-container {
-    background-color: crimson;
-    width: 200px;
-    height: 200px;
-}
+.middle-container {}
 
-.bottom-container {
-    background-color: rgb(255, 187, 0);
-    width: 200px;
-    height: 200px;
-}
+.bottom-container {}
+
 
 .pro {
     text-decoration: underline;

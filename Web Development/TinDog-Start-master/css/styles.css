@@ -8,6 +8,66 @@
 
 h1 {
     font-family: "Montserrat-black";
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5;
+    color: white;
+}
+
+h3 {
+    font-family: "Montserrat-black";
+    font-size: 1.5rem;
+}
+
+p {
+    color: #a2a7aa
+}
+
+/* Navigatio-Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding-right: 4.5rem;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Montserrat-light";
+    font-size: 1.2rem;
+    padding-left: 3.5rem;
+
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.icon {
+    color: rgb(134, 9, 9);
+}
+
+/* Title Image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* Featues Section */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
 }

@@ -53,6 +53,11 @@ p {
 
 .icon {
     color: rgb(134, 9, 9);
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
 }
 
 /* Title Image */

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>jQuery</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $("h2").css("background-color", "yellow");
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+    <h1 style="background-color:tomato">This is a heading</h1>
+
+    <h2 style="background-color:#ff0000">“Neque porro quisquam”</h2>
+    <h2 style="background-color:#00ff00">“est qui dolorem ipsum”</h2>
+    <h2 style="background-color:#ff5100">“quia dolor sit amet”</h2>
+    <h2 style="background-color:#ff00c8">“Temporibus autem quibusdam et aut officiis debitis”</h2>
+    <h2 style="background-color:#b9b9b9">“aut rerum necessitatibus”</h2>
+
+    <p>This is a paragraph.</p>
+
+    <button>Set background-color of h1</button>
+
+</body>
+
+</html>

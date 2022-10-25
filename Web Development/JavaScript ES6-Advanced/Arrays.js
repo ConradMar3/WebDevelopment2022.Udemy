@@ -6,12 +6,13 @@ var guestList = [
     "Scene",
     "Watch",
     "Listen",
-    "Learn"];
+    "Learn"
+];
 
 var guestName = prompt("Knock-knock, Who's there?");
 
 if (guestList.includes(guestName)) {
-    alert("Hello, 'MATE'!");
+    alert("Welcome.");
 } else {
-    alert("Bugs Bunny!!!!! Now I'M Seeing red, and you, well...ARE GOING TO SEE BLACK!!!!!");
+    alert("Nope.");
 }

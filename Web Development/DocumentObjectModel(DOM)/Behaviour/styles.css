@@ -1,0 +1,12 @@
+.huge {
+    font-size: 10rem;
+    font-weight: bold;
+    color: crimson;
+}
+
+.medium {
+    font-size: 7.5rem;
+    font-weight: lighter;
+    color: yellowgreen;
+    text-align: center;
+}
